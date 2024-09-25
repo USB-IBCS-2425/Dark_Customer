@@ -1,7 +1,7 @@
 
-abstract class Shape {
+class Shape {
     
-    public abstract double area();
+    public double area();
 }
 
 
